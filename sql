@@ -1,5 +1,5 @@
 -- 1
-a - tinyint, 8 bytes
+a - tinyint, 1 bytes
 b - char, n bytes
 c - date, 3 bytes
 d - real, 4 bytes
